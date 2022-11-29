@@ -1,0 +1,24 @@
+{
+  "name": "enzyme-jest-example",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "main": "src/index.js",
+  "dependencies": {
+    "@floating-ui/react-dom": "1.0.1",
+    "@wojtekmaj/enzyme-adapter-react-17": "0.1.0",
+    "enzyme": "3.11.0",
+    "enzyme-adapter-react-16": "1.7.0",
+    "jest": "26.6.3",
+    "react": "16.14.0",
+    "react-dom": "16.14.0",
+    "react-scripts": "5.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
